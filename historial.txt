@@ -1,0 +1,5 @@
+echo hola;0;19
+type noexiste.txt;1;22
+orden_inventada;1;24
+ping -n 11 127.0.0.1;-1;5015
+echo Soy Esteban;0;23
